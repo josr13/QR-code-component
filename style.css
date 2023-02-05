@@ -1,5 +1,5 @@
 :root {
-  font-family: Outfit;
+  font-family: Outfit, sans-serif;
 }
 
 body {
@@ -8,19 +8,23 @@ body {
 
 main {
   display: flex;
-  align-content: center;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .container {
   display: flex;
   flex-direction: column;
   background: hsl(0deg, 0%, 100%);
-  margin: 0 auto;
   justify-content: center;
   align-items: center;
   margin: 1.4em;
-  padding: 1em 0.5em;
+  padding: 1em 1em;
   border-radius: 20px;
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
 }
 .container img {
   width: 19em;
@@ -35,7 +39,7 @@ main {
 }
 .container .text-container .first-text {
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.42rem;
   color: hsl(218deg, 44%, 22%);
   margin: 0;
   padding: 0.3em;
