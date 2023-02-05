@@ -19,8 +19,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [https://github.com/josr13/QR-code-component](https://github.com/josr13/QR-code-component)
-- Live Site URL: [https://josr13.github.io/QR-code-component](https://josr13.github.io/QR-code-component)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-and-sass-with-l5vx1qR4hb)
+- Live Site URL: [GitHub Pages](https://josr13.github.io/QR-code-component)
 
 ## My process
 
